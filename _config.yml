@@ -1,0 +1,14 @@
+# Site settings
+title: Mukesh Joshi
+email: mukesh.bciit@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  My intention to create this blog is to try new things and keep them posted.
+  So that it will help me as well as someone else.
+
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+twitter_username: muku3011
+github_username:  muku3011
+
+# Build settings
+markdown: kramdown
