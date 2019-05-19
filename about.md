@@ -4,7 +4,6 @@ permalink: "/about/"
 layout: page
 ---
 
-## Hello, 
+## Hello,
 
-### I'm starting this post only to keep my learning in a common place.
-
+### I'm starting this post only to keep my learning in a common place :)
