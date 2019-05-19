@@ -1,15 +1,22 @@
-# Site settings
+---
 title: Learn by examples
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
 name: Mukesh Joshi
 email: mukesh.bciit@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
-  My intention to create this blog is to try new things and keep them posted.
-  So that it will help me as can also help someone if they are looking for the same content.
+description: 'My intention to create this blog is to try new things and keep them
+  posted. So that it will help me as can also help someone if they are looking for
+  the same content.
 
-baseurl: "" # the sub path of your site, e.g. /blog/
-url: "https://muku3011.github.io/" # the base hostname & protocol for your site
+'
+baseurl: ''
+url: https://muku3011.github.io/
 twitter_username: muku3011
-github_username:  muku3011
-
-# Build settings
+github_username: muku3011
 markdown: kramdown

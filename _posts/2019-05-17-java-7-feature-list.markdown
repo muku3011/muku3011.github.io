@@ -1,8 +1,9 @@
 ---
+title: Java 7 feature list!
+date: 2019-05-17 20:53:00 Z
+categories:
+- Java
 layout: post
-title:  "Java 7 feature list!"
-date:   2019-05-17 20:53:00
-categories: Java
 ---
 
 ### Try-with-resources statement
